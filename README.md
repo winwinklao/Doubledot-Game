@@ -9,7 +9,7 @@ Is a game that resembles PACMAN, or as we know it in childhood, is a point-eatin
   3. The game DOUBLEDOT will have 4 stages in total. If you want to pass the level, you must collect all coins in that level. Every coin will pass that level. In which, each level will have a level of increasing difficulty In which the difficulty level will be The speed of flight or movement of the beast and the number of beast Maze difficulty
   4. In each stage, coins will be collected. The points of each coin are as follows.
   
-           Stage 1, collect 1 coin, points will + 1 point
+           Stage 1, collect 1 coin, the score + 1 point
            Stage 2 collects 1 coin, the score + 2 points
            Stage 3 collects 1 coin, the score will + 3 points
            Stage 4 collects 1 coin, the score will + 4 points
