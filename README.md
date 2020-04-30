@@ -1,6 +1,6 @@
 # Doubledot-Game
 Programming Fundamentals II 03603112 
-By Atitaya Thongsuk 6130300522 SEC.801
+By Atitaya Thongsuk 6130301065 SEC.801
 # About Double-Game
 Is a game that resembles PACMAN, or as we know it in childhood, is a point-eating game, but DOUBLEDOT will come in the form of a little boy with the courage to destroy in a cave. The feeling Dangerous and a beast that protects the treasure, the little ones who come to find the treasure must be their disadvantage and collect all the coins. The shrine in this cave.
 # How to play and the rules of the game DOUBLEDOT.
